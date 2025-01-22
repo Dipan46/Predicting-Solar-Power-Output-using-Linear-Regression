@@ -43,21 +43,10 @@ The dataset contains the following features:
 
 ---
 
-## Results
-- The Linear Regression model achieved an **R-squared value of X** and an **RMSE of Y**, indicating its ability to predict solar power output based on the given features.
-- Key features influencing solar power generation include:
-  - **Shortwave radiation**: Strong positive correlation with generated power.
-  - **Temperature**: Moderate positive correlation.
-  - **Cloud cover**: Negative correlation, as higher cloud cover reduces solar radiation.
-
----
-
 ## Visualizations
 1. **Pairplot**: Visualizes relationships between selected features and the target variable.
 2. **Correlation Heatmap**: Highlights the correlation between features and the target.
-3. **Scatter Plot (Actual vs Predicted)**: Compares actual and predicted solar power output.
-4. **Residual Plot**: Analyzes the distribution of errors (residuals) in the model.
-5. **Feature Importance Plot**: Displays the contribution of each feature to the model.
+3. **Distribution of Target Variable**: Shows the distribution of the target variable (`generated_power_kw`).
 
 ---
 
