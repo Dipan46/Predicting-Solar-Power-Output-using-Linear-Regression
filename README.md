@@ -49,8 +49,3 @@ The dataset contains the following features:
 3. **Distribution of Target Variable**: Shows the distribution of the target variable (`generated_power_kw`).
 
 ---
-
-## How to Run the Code
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/solar-power-prediction.git
