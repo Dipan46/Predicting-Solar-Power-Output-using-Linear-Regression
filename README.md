@@ -95,15 +95,11 @@ jupyter notebook
 
 ## **Screenshots** 🖼️  
 ### 📌 **Data Visualization**
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](plots/Heatmap.png)
+![Scatter Plot](plots/Scatterplot.png)
 
 ### 📌 **Model Performance**
-![Scatter Plot](screenshots/actual_vs_predicted.png)
-
-### 📌 **User Interface**
-![GUI](screenshots/gui.png)
-
-*(Make sure to add actual screenshots in the `screenshots/` folder.)*
+![Scatter Plot](plots/act_pre_val.png)
 
 ---
 
