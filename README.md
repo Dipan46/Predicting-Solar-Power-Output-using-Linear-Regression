@@ -11,19 +11,6 @@ It includes:
 
 ---
 
-## **Table of Contents**
-- [Overview](#overview)
-- [Tools and Technologies Used](#tools-and-technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## **Tools and Technologies Used** 🛠️  
 - **Programming Language:** Python  
 - **Libraries:**  
